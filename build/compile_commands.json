@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/media/rossum/新加卷/C++项目/Ubuntu/自瞄/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -g -std=gnu++14 -o CMakeFiles/main.dir/main.cpp.o -c /media/rossum/新加卷/C++项目/Ubuntu/自瞄/main.cpp",
+  "file": "/media/rossum/新加卷/C++项目/Ubuntu/自瞄/main.cpp"
+}
+]
